@@ -1,5 +1,6 @@
-Hello there 👋
-Mobile Developer at XPInc;
+### Hello there 👋
 
-⚙️ I use daily: .Swift, .Flutter
-💬 ping me about mobile, swift, development, flutter
+#### Mobile Engineer at XPInc
+
+- ⚙️ I use daily: `.swift`, `.flutter`,
+- 💬 `ping` me about **flutter**, **swift**, **development**
